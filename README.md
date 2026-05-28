@@ -99,7 +99,7 @@ For convenience, the following table lists additional publicly available RIR dat
 Tested with Python 3.9.21.
 
 ```bash
-git clone https://github.com/sebastian-svs/rir-bench.git
+git clone https://github.com/AIIM-Group/RIRBench
 cd rir-bench
 pip install -r requirements.txt
 ```
