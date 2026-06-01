@@ -7,6 +7,8 @@
 
 ## Overview
 
+Project page: https://medail.github.io/RIRBench-project — paper, results, and visual comparisons.
+
 RIRBench is an evaluation framework for blind Room Impulse Response (RIR) estimation from reverberant speech. It addresses the fragmented landscape of RIR generation assessment by providing a unified, multi-metric approach, combining established acoustic parameters (T60, DRR) with advanced spectral-temporal metrics (MSTFT, EDR) and a novel peak similarity metric to capture complementary aspects of RIR quality.
 
 ## Motivation
